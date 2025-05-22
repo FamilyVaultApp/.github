@@ -1,1 +1,1 @@
-### Repository containing the README displayed on the [organization's GitHub homepage](https://github.com/FamilyVaultApp).
+### Repozytorium zawierające plik README wyświetlany na [stronie głównej organizacji FamilyVault](https://github.com/FamilyVaultApp) na GitHubie.
