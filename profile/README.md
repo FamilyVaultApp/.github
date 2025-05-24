@@ -3,4 +3,4 @@
 ### FamilyVault
 Ponieważ każda rodzina zasługuje na **_prywatny i bezpieczny_** komunikator.
 
-[Strona internetowa](https://aleks-2.mat.umk.pl/pz2024/zesp01/)
+[Strona internetowa](https://familyvault.pl/)
